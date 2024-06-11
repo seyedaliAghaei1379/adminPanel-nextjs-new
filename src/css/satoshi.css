@@ -1,0 +1,42 @@
+
+@font-face {
+    font-family: estedad;
+    src: url('../fonts/Estedad-FD-Thin.woff2');
+    font-weight: 100;
+}
+@font-face {
+    font-family: estedad;
+    src: url('../fonts/Estedad-FD-ExtraLight.woff2');
+    font-weight: 200;
+}
+@font-face {
+    font-family: estedad;
+    src: url('../fonts/Estedad-FD-Light.woff2');
+    font-weight: 300;
+}
+@font-face {
+    font-family: estedad;
+    src: url('../fonts/Estedad-FD-Regular.woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: estedad;
+    src: url('../fonts/Estedad-FD-Medium.woff2');
+    font-weight: 500;
+}
+@font-face {
+    font-family: estedad;
+    src: url('../fonts/Estedad-FD-SemiBold.woff2');
+    font-weight: 600;
+}
+@font-face {
+    font-family: estedad;
+    src: url('../fonts/Estedad-FD-Bold.woff2');
+    font-weight: 700;
+}
+@font-face {
+    font-family: estedad;
+    src: url('../fonts/Estedad-FD-ExtraBold.woff2');
+    font-weight: 800;
+}
+
